@@ -7,7 +7,7 @@
   "start": "node ./build/server.js",
   "pm2:start": "pm2 start npm --name DNCL -- start",
   "prod": "npm run build && npm run pm2:start"
-}
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
