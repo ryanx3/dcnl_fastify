@@ -6,7 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsx watch src/server.ts",
     "build": "tsup src --out-dir build",
-    "start": "node ./build/server.js"
+    "start": "node ./build/server.js",
+    "deploy": "npm run build && pm2 start npm --name 'DNCL' -- start --update-env",
+    "prod": "npm run build && pm2 restart DNCL --update-env"
   },
   "keywords": [],
   "author": "",
