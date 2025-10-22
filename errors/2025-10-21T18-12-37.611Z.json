@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-10-21T18:12:37.611Z",
+  "error": {
+    "code": "Communications",
+    "message": "Generic communication error.",
+    "args": []
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "963364469"
+  }
+}

@@ -1,0 +1,1890 @@
+{
+  "timestamp": "2025-10-22T02:21:13.485Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "55"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "961034242"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T02:21:14.488Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "55"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "961034242"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:00.097Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "914473162"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:00.271Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "914473162"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:00.886Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "937124692"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:00.983Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "937124692"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:01.532Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "917144832"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:01.612Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "917144832"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:02.150Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "920297589"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:02.247Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "920297589"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:02.791Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "918899089"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:02.938Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "918899089"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:03.469Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "936540052"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:03.571Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "936540052"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:04.119Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "933510920"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:04.206Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "933510920"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:04.727Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "914556507"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:04.832Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "914556507"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:05.366Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "926028823"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:05.466Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "49"
+  },
+  "body": {
+    "doNotCallListName": "Deco",
+    "number": "926028823"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:06.001Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "914473162"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:06.114Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "914473162"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:06.619Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "937124692"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:06.710Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "937124692"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:07.237Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "915453119"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:07.337Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "915453119"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:07.854Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "917144832"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:07.993Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "917144832"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:08.532Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "920297589"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:08.607Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "920297589"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:09.123Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "918899089"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:09.238Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "918899089"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:09.762Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "916101313"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:09.916Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "916101313"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:10.479Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "934594697"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:10.568Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "934594697"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:11.096Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "933510920"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:11.175Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "933510920"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:11.702Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "914556507"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:12.550Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "914556507"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:13.055Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "926028823"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:13.143Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "51"
+  },
+  "body": {
+    "doNotCallListName": "Endesa",
+    "number": "926028823"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:13.685Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "914473162"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:13.835Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "914473162"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:14.386Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "937124692"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:14.482Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "937124692"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:15.016Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "915453119"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:15.144Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "915453119"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:15.665Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "917144832"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:15.757Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "917144832"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:16.275Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "920297589"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:16.377Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "920297589"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:16.872Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "918899089"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:17.020Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "918899089"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:17.537Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "936540052"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:17.622Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "936540052"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:18.134Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "916101313"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:18.220Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "916101313"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:18.719Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "934594697"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:18.793Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "934594697"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:19.693Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "933510920"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:19.772Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "933510920"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:20.322Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "916625633"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:20.409Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "916625633"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:21.292Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "914556507"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:21.378Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "914556507"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:21.893Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "926028823"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:21.990Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "54"
+  },
+  "body": {
+    "doNotCallListName": "Iberdrola",
+    "number": "926028823"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:43.295Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "917144832"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:43.570Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "917144832"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:44.078Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "920297589"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:44.166Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "920297589"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:44.685Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "918899089"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:44.773Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "918899089"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:45.313Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "936540052"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:45.392Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "936540052"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:45.904Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "916101313"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:45.994Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "916101313"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:46.512Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "934594697"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:46.597Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "934594697"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:47.110Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "933510920"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:47.189Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "933510920"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:47.695Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "916625633"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:47.782Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "916625633"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:48.292Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "914556507"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:48.375Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "914556507"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:48.889Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "926028823"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:08:49.128Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "62"
+  },
+  "body": {
+    "doNotCallListName": "ImpresaPublishing",
+    "number": "926028823"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:09:40.539Z",
+  "environment": "Cloud",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-cloud",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "55"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "918590640"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-22T08:09:40.738Z",
+  "environment": "OnPremise",
+  "ip": "192.168.0.91",
+  "method": "POST",
+  "url": "/upload-dncl-on-prem",
+  "headers": {
+    "host": "192.168.1.95:3333",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "55"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "918590640"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
