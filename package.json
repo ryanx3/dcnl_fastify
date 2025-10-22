@@ -5,7 +5,7 @@
 "scripts": {
   "build": "tsup src --out-dir build",
   "start": "node ./build/server.js",
-  "pm2:start": "pm2 start npm --name DNCL -- start",
+  "pm2:start": "pm2 start ./build/server.js --name DNCL",
   "prod": "npm run build && npm run pm2:start"
 },
   "keywords": [],
