@@ -2,14 +2,12 @@
   "name": "dcnl_fastify",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx watch src/server.ts",
-    "build": "tsup src --out-dir build",
-    "start": "node ./build/server.js",
-    "deploy": "npm run build && pm2 start npm --name 'DNCL' -- start --update-env",
-    "prod": "npm run build && pm2 restart DNCL --update-env"
-  },
+"scripts": {
+  "build": "tsup src --out-dir build",
+  "start": "node ./build/server.js",
+  "pm2:start": "pm2 start npm --name DNCL -- start",
+  "prod": "npm run build && npm run pm2:start"
+}
   "keywords": [],
   "author": "",
   "license": "ISC",
