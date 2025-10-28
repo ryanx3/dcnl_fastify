@@ -1,4 +1,3 @@
-import https from "node:https";
 import { AltitudeCloud } from "../config/api";
 
 export interface UploadDnclBodyParams {

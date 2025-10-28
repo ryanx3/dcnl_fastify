@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-10-28T12:54:35.669Z",
+  "error": {},
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "123123123",
+    "cloud": {
+      "username": "rgsm",
+      "password": "Neiajonas123?"
+    },
+    "onPrem": {
+      "username": "rgsm",
+      "password": "rgxsm"
+    }
+  }
+}

@@ -1,10 +1,11 @@
 import { FastifyReply, FastifyRequest } from "fastify";
 import { z } from "zod";
-import { sendEmail } from "../utils/send-email";
+import { sendEmailUpload } from "../utils/send-email-upload";
 import { saveErrorFile } from "../utils/error-file";
 import { logRequest } from "../utils/log-request";
 import { uploadDnclOnPrem } from "../use-cases/upload-dncl-on-premise";
 import { authenticateOnPrem } from "../use-cases/authenticate-on-prem";
+import { env } from "../env";
 
 const createBodySchema = z.object({
   doNotCallListName: z.string().nonempty({ message: "Nome da DNCL é obrigatório" }),
@@ -27,7 +28,7 @@ export async function uploadOnPremController(
 
   try {
     const { doNotCallListName, number } = createBodySchema.parse(body);
-    const token = await authenticateOnPrem();
+    const token = await authenticateOnPrem({ username: env.USER_ON_PREM, password: env.PASSWORD_ON_PREM });
 
     const result = await uploadDnclOnPrem(doNotCallListName, number, token);
 
@@ -49,7 +50,7 @@ export async function uploadOnPremController(
       case "error":
       default:
         await saveErrorFile(result.message, body);
-        await sendEmail({
+        await sendEmailUpload({
           bodyData: body,
           errorData: result.message,
           environment: "OnPremise"
@@ -80,7 +81,7 @@ export async function uploadOnPremController(
     }
 
     await saveErrorFile(error, body);
-    await sendEmail({
+    await sendEmailUpload({
       bodyData: body,
       errorData: error,
       environment: "OnPremise"

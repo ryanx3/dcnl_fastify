@@ -1,0 +1,313 @@
+{
+  "timestamp": "2025-10-28T12:32:01.859Z",
+  "environment": "OnPremise",
+  "ip": "127.0.0.1",
+  "method": "DELETE",
+  "url": "/remove-dncl-on-prem",
+  "headers": {
+    "host": "localhost:3333",
+    "content-type": "application/json",
+    "user-agent": "insomnia/11.6.1",
+    "accept": "*/*",
+    "content-length": "64"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "333333333"
+  },
+  "error": "[\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"username\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"password\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  }\n]"
+}
+{
+  "timestamp": "2025-10-28T12:32:39.194Z",
+  "environment": "OnPremise",
+  "ip": "127.0.0.1",
+  "method": "DELETE",
+  "url": "/remove-dncl-on-prem",
+  "headers": {
+    "host": "localhost:3333",
+    "content-type": "application/json",
+    "user-agent": "insomnia/11.6.1",
+    "accept": "*/*",
+    "content-length": "106"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "333333333",
+    "username": "rgsm",
+    "password": "rgsm"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-28T12:34:09.725Z",
+  "environment": "OnPremise",
+  "ip": "127.0.0.1",
+  "method": "DELETE",
+  "url": "/remove-dncl-on-prem",
+  "headers": {
+    "host": "localhost:3333",
+    "content-type": "application/json",
+    "user-agent": "insomnia/11.6.1",
+    "accept": "*/*",
+    "content-length": "104"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "333333333",
+    "username": "rgsm",
+    "password": "xx"
+  },
+  "error": "InvalidPassword"
+}
+{
+  "timestamp": "2025-10-28T12:34:35.530Z",
+  "environment": "Cloud",
+  "ip": "127.0.0.1",
+  "method": "DELETE",
+  "url": "/remove-dncl-cloud",
+  "headers": {
+    "host": "localhost:3333",
+    "content-type": "application/json",
+    "user-agent": "insomnia/11.6.1",
+    "accept": "*/*",
+    "content-length": "115"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "333333333",
+    "username": "rgsm",
+    "password": "Neiajonas123?"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-28T12:34:38.012Z",
+  "environment": "Cloud",
+  "ip": "127.0.0.1",
+  "method": "DELETE",
+  "url": "/remove-dncl-cloud",
+  "headers": {
+    "host": "localhost:3333",
+    "content-type": "application/json",
+    "user-agent": "insomnia/11.6.1",
+    "accept": "*/*",
+    "content-length": "115"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "333333333",
+    "username": "rgsm",
+    "password": "Neiajonas123?"
+  },
+  "response": {
+    "status": "success",
+    "message": "OK"
+  }
+}
+{
+  "timestamp": "2025-10-28T12:34:42.077Z",
+  "environment": "Cloud",
+  "ip": "127.0.0.1",
+  "method": "DELETE",
+  "url": "/remove-dncl-cloud",
+  "headers": {
+    "host": "localhost:3333",
+    "content-type": "application/json",
+    "user-agent": "insomnia/11.6.1",
+    "accept": "*/*",
+    "content-length": "104"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "333333333",
+    "username": "rgsm",
+    "password": "x?"
+  },
+  "error": "Usuário ou senha incorretos no Altitude Cloud."
+}
+{
+  "timestamp": "2025-10-28T12:53:18.905Z",
+  "environment": "Unified",
+  "ip": "127.0.0.1",
+  "method": "DELETE",
+  "url": "/remove-all",
+  "headers": {
+    "host": "localhost:3333",
+    "content-type": "application/json",
+    "user-agent": "insomnia/11.6.1",
+    "accept": "*/*",
+    "content-length": "188"
+  },
+  "body": {
+    "doNotCallListName": "MinhaLista",
+    "number": "5511999999999",
+    "cloud": {
+      "username": "rgsm",
+      "password": "Neiajonas123?"
+    },
+    "onPrem": {
+      "username": "rgsm",
+      "password": "rgsm"
+    }
+  },
+  "response": {
+    "cloud": {
+      "status": "error",
+      "message": {
+        "code": "UnknownDoNotCallList",
+        "message": "Unknown do not call list.",
+        "args": []
+      }
+    },
+    "onPrem": {
+      "status": "error",
+      "message": {
+        "code": "UnknownDoNotCallList",
+        "message": "Unknown do not call list.",
+        "args": []
+      }
+    }
+  }
+}
+{
+  "timestamp": "2025-10-28T12:54:01.550Z",
+  "environment": "Unified",
+  "ip": "127.0.0.1",
+  "method": "DELETE",
+  "url": "/remove-all",
+  "headers": {
+    "host": "localhost:3333",
+    "content-type": "application/json",
+    "user-agent": "insomnia/11.6.1",
+    "accept": "*/*",
+    "content-length": "184"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "123123123",
+    "cloud": {
+      "username": "rgsm",
+      "password": "Neiajonas123?"
+    },
+    "onPrem": {
+      "username": "rgsm",
+      "password": "rgsm"
+    }
+  },
+  "response": {
+    "cloud": {
+      "status": "success",
+      "message": "OK"
+    },
+    "onPrem": {
+      "status": "success",
+      "message": "OK"
+    }
+  }
+}
+{
+  "timestamp": "2025-10-28T12:54:19.436Z",
+  "environment": "Unified",
+  "ip": "127.0.0.1",
+  "method": "DELETE",
+  "url": "/remove-all",
+  "headers": {
+    "host": "localhost:3333",
+    "content-type": "application/json",
+    "user-agent": "insomnia/11.6.1",
+    "accept": "*/*",
+    "content-length": "185"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "123123123",
+    "cloud": {
+      "username": "rgsm",
+      "password": "Neiajxonas123?"
+    },
+    "onPrem": {
+      "username": "rgsm",
+      "password": "rgsm"
+    }
+  },
+  "response": {
+    "onPrem": {
+      "status": "success",
+      "message": "OK"
+    }
+  }
+}
+{
+  "timestamp": "2025-10-28T12:54:35.668Z",
+  "environment": "Unified",
+  "ip": "127.0.0.1",
+  "method": "DELETE",
+  "url": "/remove-all",
+  "headers": {
+    "host": "localhost:3333",
+    "content-type": "application/json",
+    "user-agent": "insomnia/11.6.1",
+    "accept": "*/*",
+    "content-length": "185"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "123123123",
+    "cloud": {
+      "username": "rgsm",
+      "password": "Neiajonas123?"
+    },
+    "onPrem": {
+      "username": "rgsm",
+      "password": "rgxsm"
+    }
+  },
+  "response": {
+    "cloud": {
+      "status": "success",
+      "message": "OK"
+    }
+  }
+}
+{
+  "timestamp": "2025-10-28T12:56:53.527Z",
+  "environment": "Unified",
+  "ip": "127.0.0.1",
+  "method": "DELETE",
+  "url": "/remove-all",
+  "headers": {
+    "host": "localhost:3333",
+    "content-type": "application/json",
+    "user-agent": "insomnia/11.6.1",
+    "accept": "*/*",
+    "content-length": "184"
+  },
+  "body": {
+    "doNotCallListName": "VivaMelhor",
+    "number": "123123123",
+    "cloud": {
+      "username": "rgsm",
+      "password": "Neiajonas123?"
+    },
+    "onPrem": {
+      "username": "rgsm",
+      "password": "rgsm"
+    }
+  },
+  "response": {
+    "cloud": {
+      "status": "success",
+      "message": "OK"
+    },
+    "onPrem": {
+      "status": "success",
+      "message": "OK"
+    }
+  }
+}

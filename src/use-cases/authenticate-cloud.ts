@@ -15,11 +15,16 @@ interface TokenErrorResponse {
   error_description: string
 }
 
-export async function authenticateCloud() {
+type TokenSignIn = {
+  username: string
+  password: string
+}
+
+export async function authenticateCloud({username, password}: TokenSignIn) {
   try {
     const bodyRequest = new URLSearchParams({
-      username: env.USER_CLOUD,
-      password: env.PASSWORD_CLOUD,
+      username,
+      password,
       grant_type: "password",
       instanceaddress: env.INSTANCE_CLOUD,
       secureaccess: "false",

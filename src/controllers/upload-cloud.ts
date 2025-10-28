@@ -1,10 +1,11 @@
 import { FastifyReply, FastifyRequest } from "fastify";
 import { z } from "zod";
 import { uploadDnclCloud } from "../use-cases/upload-dncl-cloud";
-import { sendEmail } from "../utils/send-email";
+import { sendEmailUpload } from "../utils/send-email-upload";
 import { saveErrorFile } from "../utils/error-file";
 import { authenticateCloud } from "../use-cases/authenticate-cloud";
 import { logRequest } from "../utils/log-request";
+import { env } from "../env";
 
 const createBodySchema = z.object({
   doNotCallListName: z.string().nonempty({ message: "Nome da DNCL é obrigatório" }),
@@ -27,7 +28,7 @@ export async function uploadCloudController(
 
   try {
     const { doNotCallListName, number } = createBodySchema.parse(body);
-    const token = await authenticateCloud();
+    const token = await authenticateCloud({username: env.USER_CLOUD, password: env.PASSWORD_CLOUD});
 
     const result = await uploadDnclCloud({ doNotCallListName, number, token });
 
@@ -49,7 +50,7 @@ export async function uploadCloudController(
       case "error":
       default:
         await saveErrorFile(result.message, body);
-        await sendEmail({
+        await sendEmailUpload({
           bodyData: body,
           errorData: result.message,
           environment: "Cloud"
@@ -58,7 +59,6 @@ export async function uploadCloudController(
     }
 
   } catch (error: any) {
-    // Log do erro
     await logRequest({
       environment: "Cloud",
       ip: clientIp,
@@ -81,7 +81,7 @@ export async function uploadCloudController(
     }
 
     await saveErrorFile(error, body);
-    await sendEmail({
+    await sendEmailUpload({
       bodyData: body,
       errorData: error,
       environment: "Cloud"

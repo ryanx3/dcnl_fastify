@@ -16,6 +16,11 @@ const envSchema = z.object({
   SMTP_PASS: z.string(),
   SMTP_FROM_NAME: z.string(),
   SMTP_FROM_EMAIL: z.string(),
+  PUMA_USER: z.string(),
+  PUMA_PASSWORD: z.string(),
+  PUMA_SERVER: z.string(),
+  PUMA_NAME: z.string(),
+  PUMA_PORT: z.coerce.number(),
 });
 
 const _env = envSchema.safeParse(process.env);

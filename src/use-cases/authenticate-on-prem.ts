@@ -14,11 +14,16 @@ interface TokenErrorResponse {
   error_description: string
 }
 
-export async function authenticateOnPrem() {
+type TokenSignIn = {
+  username: string
+  password: string
+}
+
+export async function authenticateOnPrem({username, password}: TokenSignIn) {
   try {
     const bodyRequest = new URLSearchParams({
-      username: env.USER_ON_PREM,
-      password: env.PASSWORD_ON_PREM,
+      username,
+      password,
       grant_type: "password",
       instanceaddress: env.INSTANCE_ON_PREM,
       secureaccess: "false",
